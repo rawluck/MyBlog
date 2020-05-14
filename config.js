@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://lraw.me',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Lakshya\'s Blog',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,28 +16,37 @@ module.exports = {
       path: '/'
     },
     {
+      label:'Quotes',
+      path: '/pages/quotes'
+    },
+    {
+      label:'Books',
+      path: 'pages/books'
+    },
+    {
       label: 'About me',
       path: '/pages/about'
     },
     {
       label: 'Contact me',
       path: '/pages/contacts'
-    }
+    },
+
   ],
   author: {
-    name: 'John Doe',
+    name: 'Lakshya Rawat',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'lakshyarawat20@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'rawluck',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'lakshya-rawat',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
