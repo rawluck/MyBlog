@@ -27,6 +27,6 @@ If you do this you will end with two kinds of people who are willing to criticiz
 
 - Whenever they criticize it will be upsetting because they are pointing out flaws, but it should make you sit and wallow in your misery
 
-- Try some of the advices out see if they work if they don', they are probably not worth taking advice from.
+- Try some of the advices out see if they work if they don't, they are probably not worth taking advice from.
 
 Once you do it a few times you will realize the biggest problem stopping you from doing great things is you.
