@@ -21,7 +21,7 @@ We become deluded and we enjoy it, we like to live in a place where we don't hav
 
 The easiest way to find if your excuses is bullshit or not is to tell someone and as a third person they can immediately tell if your reasoning is right or wrong.We can't do this to ourself because we are riddled with personal biases and can't look at the situation objectively. 
 
-And when you try to find such a person, it will be hard.Not everyone is gonna do that for you, most of them like living in that lie and are content with it.You have to find people who are aware of it**and** want to improve their situation.
+And when you try to find such a person, it will be hard.Not everyone is gonna do that for you, most of them like living in that lie and are content with it.You have to find people who are aware of it **and** want to improve their situation.
 
 If you do this you will end with two kinds of people who are willing to criticize you, those who wanna help you and those who are criticizing you just to make themselves feel better.Here are two ways to find which one they are:-
 
